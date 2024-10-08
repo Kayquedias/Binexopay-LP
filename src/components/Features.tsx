@@ -33,7 +33,7 @@ export const Features: React.FC = () => {
     <section className="mt-20 px-4 md:px-10">
       <div className="max-w-screen-xl mx-auto">
         <div className="mx-auto text-center mb-16 ">
-          <h2 className="text-5xl leading-[75px] font-semibold">Feel the best experience with our features</h2>
+          <h2 className="text-5xl leading-[75px] font-semibold mx-auto max-w-2xl">Feel the best experience with our features</h2>
         </div>
 
         <div className="relative bg-gradient-to-br from-black/80 to-black px-6 py-12 md:px-12 rounded-[30px] grid grid-cols-1 sm:grid-cols-2 gap-16 sm:gap-20 shadow-2xl">
