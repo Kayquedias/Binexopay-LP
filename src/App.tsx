@@ -7,7 +7,6 @@ import { HeroSection } from './components/HeroSection'
 import { ScrollDown } from './components/ScrollDown'
 import { Footer } from './components/Footer'
 import { Services } from './components/Services'
-import { TrustSection } from './components/TrustSection'
 import { Features } from './components/Features'
 import { DownloadSection } from './components/DowloadSection/DownloadSection'
 
